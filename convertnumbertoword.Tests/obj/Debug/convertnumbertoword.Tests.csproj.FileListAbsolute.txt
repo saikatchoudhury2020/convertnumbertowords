@@ -1,0 +1,2 @@
+H:\solution\New folder (3)\convertnumbertoword\convertnumbertoword.Tests\obj\Debug\convertnumbertoword.Tests.csprojAssemblyReference.cache
+H:\solution\New folder (3)\convertnumbertoword\convertnumbertoword.Tests\obj\Debug\convertnumbertoword.Tests.csproj.CoreCompileInputs.cache
